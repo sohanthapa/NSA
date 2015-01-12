@@ -1,0 +1,57 @@
+#header {
+    background-color:black;
+	font-family:'Arial';
+    color:white;
+    text-align:center;
+    padding:5px;
+	font-size: 15px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:20px; 
+	color:black;
+	text-align:center;
+	
+}
+#section {
+    width:690px;
+    float:left;
+    padding:10px; 
+	color: black;
+	padding-left:40px;
+	
+	
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	
+}
+
+#nsaLogo {
+	height:102px;
+    width:125px;
+	
+	position:absolute;             
+	
+	left:72%;
+    top:2%;
+     
+}
+
+#form {
+    width:690px;
+    float:left;
+    padding:10px; 
+	color: black;
+	padding-left:0px;
+	font-family:"Arial"
+	
+	
+}
